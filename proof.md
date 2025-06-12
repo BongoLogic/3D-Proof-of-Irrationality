@@ -23,9 +23,9 @@ Geometric Construction:
 
 Imagine placing the two smaller cuboids inside the larger one diagonally, from opposite corners. Visually, they will overlap in the center, leaving uncovered regions at the two opposite sides.
 
-![smaller cuboid1]
+![smaller cuboid1](https://github.com/BongoLogic/3D-Proof-of-Irrationality/blob/main/photo_2025-06-12_23-06-49.jpg?raw=true)
 
-![smaller cuboid2]
+![smaller cuboid2](https://github.com/BongoLogic/3D-Proof-of-Irrationality/blob/main/photo_2025-06-12_23-06-49.jpg?raw=true)
 
 ![union of smaller cuboids]
 
