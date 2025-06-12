@@ -18,6 +18,9 @@ y×a² = 2×y×b²
 That is, one larger cuboid with base a×a has the same volume as two smaller cuboids (each b×b×y)
 Geometric Construction:
 
+![Larger cuboid]
+(
+
 Imagine placing the two smaller cuboids inside the larger one diagonally, from opposite corners. Visually, they will overlap in the center, leaving uncovered regions at the two opposite sides.
 
 From the top view:
