@@ -20,12 +20,15 @@ That is, one larger cuboid with base a×a has the same volume as two smaller cub
 Geometric Construction:
 
 ![Larger cuboid](https://github.com/BongoLogic/3D-Proof-of-Irrationality/blob/main/photo_2025-06-12_23-07-52.jpg?raw=true)
+Larger Cuboid
 
 Imagine placing the two smaller cuboids inside the larger one diagonally, from opposite corners. Visually, they will overlap in the center, leaving uncovered regions at the two opposite sides.
 
 ![smaller cuboid1](https://github.com/BongoLogic/3D-Proof-of-Irrationality/blob/main/photo_2025-06-12_23-06-49.jpg?raw=true)
+Smaller Cuboid 1
 
 ![smaller cuboid2](https://github.com/BongoLogic/3D-Proof-of-Irrationality/blob/main/photo_2025-06-12_23-06-49.jpg?raw=true)
+Smaller Cuboid 2
 
 ![union of smaller cuboids]
 
