@@ -51,7 +51,7 @@ From the top view:
 
 • They overlap in the center and leave two corner regions uncovered.
 
-According to the Carpets Theorem, the region og overlap will be equal to the uncovered region, so adding a y component preserves the equality. (Refer to the README file for more details on the Carpets theorem)
+According to the Carpets Theorem, the region of overlap will be equal to the uncovered region, so adding a y component preserves the equality. (Refer to the README file for more details on the Carpets theorem)
 
 ![Smaller pairs](https://github.com/BongoLogic/3D-Proof-of-Irrationality/blob/main/photo_2025-06-12_23-08-09.jpg?raw=true)
 
@@ -68,7 +68,7 @@ Dimensions are (2b-a) × (2b-a) × y, so its volume is: y(2b-a)²
 Dimensions are (a-b) × (a-b) × y, so each has volume: y(a-b)²
 There are two such uncovered regions.
 
-(I am calling the Carpets Theorem with a height component, "Volume Identity)
+(I am calling the Carpets Theorem with a height component, "Volume Identity")
 
 Volume Identity:
 
@@ -84,6 +84,10 @@ This equation is in the same form as our original equation from the start, that 
 • New b' = y(a-b)
 
 This creates a smaller solution to the equation, and you can repeat this process indefinitely.
+
+![Overlapped smaller pairs](https://github.com/BongoLogic/3D-Proof-of-Irrationality/blob/main/photo_2025-06-12_23-08-17.jpg?raw=true)
+
+ Overlapped Smaller Pairs, and the process continues.
 
 Contradiction (Infinite Descent):
 
