@@ -53,7 +53,9 @@ From the top view:
 
 According to the Carpets Theorem, the region og overlap will be equal to the uncovered region, so adding a y component preserves the equality. (Refer to the README file for more details on the Carpets theorem)
 
-![Smaller pairs]
+![Smaller pairs](https://github.com/BongoLogic/3D-Proof-of-Irrationality/blob/main/photo_2025-06-12_23-08-09.jpg?raw=true)
+
+Smaller Pairs.
 
 Let's analyze the volume of these parts:
 
