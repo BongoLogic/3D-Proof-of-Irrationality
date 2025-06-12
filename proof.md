@@ -43,6 +43,8 @@ Both smaller cuboids inside the Larger one.
 
 From the top view:
 
+![Top View](https://github.com/BongoLogic/3D-Proof-of-Irrationality/blob/main/photo_2025-06-12_23-08-05.jpg?raw=true)
+
 • You see the larger cuboid as a square base of a×a.
 
 • The two smaller cuboids are inserted from opposite corners.
@@ -50,6 +52,8 @@ From the top view:
 • They overlap in the center and leave two corner regions uncovered.
 
 According to the Carpets Theorem, the region og overlap will be equal to the uncovered region, so adding a y component preserves the equality. (Refer to the README file for more details on the Carpets theorem)
+
+![Smaller pairs]
 
 Let's analyze the volume of these parts:
 
