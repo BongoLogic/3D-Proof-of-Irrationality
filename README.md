@@ -1,3 +1,5 @@
+I am in 9th grade with no proof writing backgorund, I hope what I did would atleast will be helpfull to me to sharpen my logic.
+
 This "proof," if you even call it that, was based on the 2D proof of irrationality using the carpet's theorem. 
 Carpets Theorem states that if two carpets perfectly tile a plane, and the carpets are laid irregularly such that they overlap, leaving some uncovered region on that plane, then the area of the uncovered region will be equal to the area of overlap.
 
